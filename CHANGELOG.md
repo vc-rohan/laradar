@@ -12,6 +12,7 @@ All notable changes to Laradar will be documented in this file.
 
 - Update changelog ([f7686cc](https://github.com/vcian/laradar/commit/f7686cc0946d55052c12d5c609ee00efc2d8e173))
 - Update changelog ([4ae1c28](https://github.com/vcian/laradar/commit/4ae1c28013055af79238aa9a8e0c0794bb32cb1b))
+- Update changelog ([afcd0b1](https://github.com/vcian/laradar/commit/afcd0b1936ef21ec79dbcdd562a48af288fc13b4))
 
 ## [1.0.0] - 2026-09-02
 
